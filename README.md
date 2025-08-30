@@ -26,7 +26,6 @@
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=FishCake9918&repo=Airline-Data-Analytics-DW&theme=radical)](https://github.com/FishCake9918/Airline-Data-Analytics-DW)  
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=FishCake9918&repo=another-repo&theme=radical)](https://github.com/FishCake9918/another-repo)  
 
-*(Replace `your-repo` with actual repos you’re proud of!)*
 
 ---
 
