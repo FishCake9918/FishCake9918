@@ -23,7 +23,8 @@
 ---
 
 ### 🚀 Featured Projects
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=FishCake9918&repo=Airline-Data-Analytics-DW&theme=radical)](https://github.com/FishCake9918/Airline-Data-Analytics-DW)  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=FishCake9918&repo=Airline-Data-Analytics-DW&theme=radical)](https://github.com/FishCake9918/Airline-Data-Analytics-DW)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=FishCake9918&repo=Viettel-Marathon-2024&theme=radical)](https://github.com/FishCake9918/Viettel-Marathon-2024)
  
 
 
